@@ -67,4 +67,4 @@ GFN1000_Bilingual
 **温馨提示**：
 1. 发现翻译错误？欢迎提Issue！
 2. 想参与改进？直接Fork走起！
-3. 紧急求助？发邮件到 [yourprofessor@cuhk.edu.cn] 📧
+3. 仅供课程学习所用，不要拿来干坏事
